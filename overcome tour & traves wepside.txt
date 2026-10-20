@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overcome Tour & Travels | Paradip, Odisha</title>
+    <script src="https://jsdelivr.net"></script>
+    <link rel="stylesheet" href="https://cloudflare.com">
+    <style>
+        .hero-section {
+            background: linear-gradient(rgba(17, 24, 39, 0.8), rgba(17, 24, 39, 0.9)), url('https://unsplash.com');
+            background-size: cover;
+            background-position: center;
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-100 font-sans antialiased">
+
+    <!-- Festive Promo Alert Header Tag -->
+    <div class="bg-red-600 text-white text-center py-2.5 text-xs font-black uppercase tracking-widest shadow-md animate-pulse">
+        ✨ Durga Puja Festival Special Fleet Reservations Open ✨
+    </div>
+
+    <!-- Navigation Header Bar -->
+    <header class="bg-gray-950 border-b border-gray-800 sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-3 flex flex-col md:flex-row items-center justify-between gap-4">
+            <!-- Brand Logo Matrix -->
+            <div class="flex items-center gap-3">
+                <div class="w-12 h-12 rounded-full bg-red-600 flex items-center justify-center font-black text-white text-lg shadow-inner border border-red-500">
+                    OTS
+                </div>
+                <div>
+                    <h1 class="text-xl font-black tracking-tight text-white uppercase">Overcome Tour & Travels</h1>
+                    <p class="text-xs text-red-500 font-medium">With Best Compliments From Management</p>
+                </div>
+            </div>
+            <!-- Quick Contacts Segment -->
+            <div class="flex flex-wrap justify-center gap-4 text-xs font-semibold text-gray-300">
+                <a href="tel:+919937373837" class="hover:text-red-500 transition"><i class="fa-solid fa-phone text-red-500"></i> +91 9937373837</a>
+                <a href="tel:+917008421393" class="hover:text-red-500 transition"><i class="fa-solid fa-phone text-red-500"></i> 7008421393</a>
+                <a href="tel:+919114342771" class="hover:text-red-500 transition"><i class="fa-solid fa-phone text-red-500"></i> 9114342771</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Display Section & Interactive Lead System -->
+    <section class="hero-section min-h-[80vh] flex items-center py-12">
+        <div class="container mx-auto px-4 grid lg:grid-cols-12 gap-12 items-center">
+            
+            <!-- Pitch Statements Left Side -->
+            <div class="lg:col-span-7 space-y-6">
+                <span class="bg-red-600/10 text-red-400 border border-red-500/20 px-3 py-1 rounded text-xs font-bold tracking-widest uppercase">
+                    Puja Pandal Hopping & Tours
+                </span>
+                <h2 class="text-3xl sm:text-5xl font-black text-white leading-tight">
+                    Deals In : All types of Vehicles available here on hire basis.
+                </h2>
+                <p class="text-gray-400 text-base max-w-xl">
+                    Located near Gopabandhu Stadium in Nuabazar, Paradip, we deliver highly reliable point-to-point drop networks and tourist rental systems expanding into all sides of Odisha during this Durga Puja season.
+                </p>
+                <div class="grid grid-cols-2 gap-4 pt-2 text-sm text-gray-300 max-w-md">
+                    <div class="flex items-center gap-2"><i class="fa-solid fa-circle-check text-red-500"></i> Festive Tour Expert Drivers</div>
+                    <div class="flex items-center gap-2"><i class="fa-solid fa-circle-check text-red-500"></i> Affordable Puja Tariffs</div>
+                    <div class="flex items-center gap-2"><i class="fa-solid fa-circle-check text-red-500"></i> Local & Outstation Packages</div>
+                    <div class="flex items-center gap-2"><i class="fa-solid fa-circle-check text-red-500"></i> 24/7 Terminal Support</div>
+                </div>
+            </div>
+
+            <!-- Booking Request Interface Form Box Component -->
+            <div class="lg:col-span-5">
+                <div class="bg-gray-950/90 border border-gray-800 rounded-xl p-6 shadow-2xl backdrop-blur-sm">
+                    <h3 class="text-lg font-bold text-white mb-1 flex items-center gap-2">
+                        <i class="fa-solid fa-calendar-check text-red-500"></i> Secure Festive Booking
+                    </h3>
+                    <p class="text-xs text-gray-400 mb-6">Instantly submits live details directly to dispatch management.</p>
+                    
+                    <form action="https://formsubmit.co" method="POST" class="space-y-4">
+                        
+                        <input type="hidden" name="_subject" value="Overcome Travels Durga Puja Inquiry">
+                        <input type="hidden" name="_honey" style="display:none">
+
+                        <div>
+                            <label class="block text-xs font-bold text-gray-400 uppercase tracking-wider mb-1">Your Full Name</label>
+                            <input type="text" name="Client Name" required placeholder="Enter your name" class="w-full bg-gray-900 border border-gray-800 rounded p-2.5 text-sm text-white focus:outline-none focus:border-red-500 transition">
+                        </div>
+
+                        <div>
+                            <label class="block text-xs font-bold text-gray-400 uppercase tracking-wider mb-1">Contact Number</label>
+                            <input type="tel" name="Mobile Phone" required placeholder="Enter 10-digit number" class="w-full bg-gray-900 border border-gray-800 rounded p-2.5 text-sm text-white focus:outline-none focus:border-red-500 transition">
+                        </div>
+
+                        <!-- Journey Date Range Pickers -->
+                        <div class="grid grid-cols-2 gap-4">
+                            <div>
+                                <label class="block text-xs font-bold text-gray-400 uppercase tracking-wider mb-1"><i class="fa-regular fa-calendar text-red-500 mr-1"></i> Start Date</label>
+                                <input type="date" name="Journey Start" required class="w-full bg-gray-900 border border-gray-800 rounded p-2.5 text-sm text-white focus:outline-none focus:border-red-500 transition">
+                            </div>
+                            <div>
+                                <label class="block text-xs font-bold text-gray-400 uppercase tracking-wider mb-1"><i class="fa-regular fa-calendar-check text-red-500 mr-1"></i> End Date</label>
+                                <input type="date" name="Journey End" required class="w-full bg-gray-900 border border-gray-800 rounded p-2.5 text-sm text-white focus:outline-none focus:border-red-500 transition">
+                            </div>
+                        </div>
+
+                        <div>
+                            <label class="block text-xs font-bold text-gray-400 uppercase tracking-wider mb-1">Preferred Vehicle Class</label>
+                            <select name="Vehicle Class Selected" class="w-full bg-gray-900 border border-gray-800 rounded p-2.5 text-sm text-white focus:outline-none focus:border-red-500 transition">
+                                <option>Hatchback / Compact Economy</option>
+                                <option>Premium Sedan (Dzire, Etios)</option>
+                                <option>Family SUV Fleet (Innova, Ertiga)</option>
+                                <option>Off-Road Special (Scorpio, Bolero)</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label class="block text-xs font-bold text-gray-400 uppercase tracking-wider mb-1">Destination Route Outline</label>
+                            <input type="text" name="Travel Route" required placeholder="e.g. Cuttack-Bhubaneswar Pandal Tour" class="w-full bg-gray-900 border border-gray-800 rounded p-2.5 text-sm text-white focus:outline-none focus:border-red-500 transition">
+                        </div>
+
+                        <button type="submit" class="w-full bg-red-600 text-white font-black text-sm tracking-wider uppercase py-3 rounded hover:bg-red-500 transition shadow-lg mt-2 flex items-center justify-center gap-2 cursor-pointer">
+                            Confirm Puja Route Reservation <i class="fa-solid fa-arrow-right"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Geographic Coverage Module (All Sides of Odisha) -->
+    <section class="py-16 bg-gray-950 border-t border-gray-800">
+        <div class="container mx-auto px-4">
+            <div class="text-center max-w-xl mx-auto mb-12">
+                <h3 class="text-2xl sm:text-3xl font-black text-white uppercase tracking-tight">Expeditions Across All Sides of Odisha</h3>
+                <div class="h-1 w-12 bg-red-600 mx-auto mt-2"></div>
+            </div>
+            
+            <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- North -->
+                <div class="bg-gray-900 border border-gray-800 rounded p-6 hover:border-red-500/50 transition">
+                    <span class="text-red-500 font-bold block mb-1">01. NORTH ODISHA</span>
+                    <h4 class="text-white font-bold mb-2">Similipal & Keonjhar Routes</h4>
+                    <p class="text-xs text-gray-400 leading-relaxed">Swift transport configurations connecting major industrial sectors and scenic natural wildlife parks.</p>
+                </div>
+                <!-- South -->
